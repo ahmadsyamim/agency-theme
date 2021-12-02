@@ -1,0 +1,7 @@
+{
+    "name": "Agency",
+    "package_name": "ahmadsyamim/agency-theme",
+    "extends": "",
+    "asset-path": "Agency",
+    "views-path": "Agency"
+}

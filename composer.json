@@ -1,0 +1,24 @@
+{
+    "name": "ahmadsyamim/agency-theme",
+    "title": "Agency",
+    "description": "",
+    "type": "laravel-module-theme",
+    "authors": [
+        {
+            "name": "Ahmad Syamim",
+            "email": "ahmad.syamim@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+            }
+        }
+    },
+    "require": {
+    },
+    "scripts": {
+        "dist": "tar -cvzf ./dist/Agency.theme.tar.gz -C ./src ."
+    }
+}
