@@ -24,9 +24,9 @@
     <link rel="apple-touch-icon-precomposed" href="{{ url('/') }}/images/apple-touch-icon.png" />
 
     <!-- Styles -->
-    {{ HTML::style('freelancer/css/styles.css') }}
+    {{ HTML::style('Agency/css/styles.css') }}
     @push('scripts')
-    {{ HTML::script('lancer/js/scripts.js') }}
+    {{ HTML::script('Agency/js/scripts.js') }}
     @endpush
 
     @if (setting('site.google_analytics_tracking_id'))
